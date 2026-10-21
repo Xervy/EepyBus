@@ -3,7 +3,7 @@ export const GEOFENCE_REGION_ID = "DESTINATION";
 
 export const ALARM_CHANNEL_ID = "alarm";
 
-export const DEFAULT_RADIUS_M = 2000;
+export const DEFAULT_RADIUS_M = 500;
 
 // Temporary: replace once the map screen lets the user pick a destination.
 // Make sure this is a few km from where you are testing, or you'll start
