@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { AppState } from "react-native";
-import { isAlarmActive, startAlarm, stopAlarm } from "../services/geofence";
+import { isAlarmActive, startAlarm, stopAlarm } from "../services/tracking";
 import { getCurrentCoords } from "../services/location";
 import { setupAlarmChannel } from "../services/notifications";
 import { ensureAlarmPermissions } from "../services/permissions";
