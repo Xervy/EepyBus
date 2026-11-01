@@ -23,7 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.xervy.EepyBus",
+      "bundleIdentifier": "com.xervy.eepybus",
       "infoPlist": {
         "UIBackgroundModes": ["location"]
       }
@@ -36,7 +36,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.xervy.EepyBus",
+      "package": "com.xervy.eepybus",
       "permissions": [
         "ACCESS_FINE_LOCATION",
         "ACCESS_COARSE_LOCATION",
