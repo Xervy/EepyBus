@@ -15,8 +15,8 @@ export async function startAlarm(destination: Destination, radiusMeters: number)
       showsBackgroundLocationIndicator: true,
       // Android: keeps tracking alive while the phone is locked.
       foregroundService: {
-        notificationTitle: "EepyBus alarm is on",
-        notificationBody: "Watching for your stop. You can sleep.",
+        notificationTitle: "EepyBus Alarm is locked n loaded",
+        notificationBody: "Will brutally wake you up when we get to ur stop",
         killServiceOnDestroy: false,
       },
     });
