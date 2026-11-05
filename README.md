@@ -1,7 +1,7 @@
 # EepyBus
 
 Have you ever been on the bus home and either you just arent paying attention or want to sleep but can't because you are afraid of missing your stop? Well ur in the right place cuz this app is peak.
-Download the apk in releases to try it for yourself!
+Download the apk in releases to try it for yourself! [Releases page](https://github.com/Xervy/EepyBus/releases/latest).
 
 TOMORROW I WILL GET SCREENSHOTS (im not tryna dox myself rn)
 ![alt text](workinprogress.png)
@@ -75,7 +75,7 @@ This app needs a development or preview build. It does not run in Expo Go, becau
 ### Install
 
 ```
-git clone https://github.com/xervy/EepyBus.git
+git clone https://github.com/Xervy/EepyBus.git
 cd EepyBus
 npm install
 ```
