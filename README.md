@@ -3,6 +3,7 @@
 Have you ever been on the bus home and either you just arent paying attention or want to sleep but can't because you are afraid of missing your stop? Well ur in the right place cuz this app is peak.
 
 TOMORROW I WILL GET SCREENSHOTS (im not tryna dox myself rn)
+![alt text](workinprogress.png)
 
 ## Why
 
